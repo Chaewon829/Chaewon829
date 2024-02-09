@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaewon829&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **Chaewon829/Chaewon829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
